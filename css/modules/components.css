@@ -47,10 +47,10 @@
   
 .music-card {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     background-color: gold;
     width: 30%;
-  
+    cursor: pointer;
     display: flex;
     flex-direction: column;
     border-radius: 1.6rem;

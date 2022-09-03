@@ -36,7 +36,8 @@
 }
 
 .musics-container {
-  gap: 5.2rem;
+  gap: 3rem;
+  flex-wrap: wrap;
   width: 78.8%;
   margin: 0 auto;
 }

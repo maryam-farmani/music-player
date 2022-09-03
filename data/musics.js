@@ -3,84 +3,73 @@ export default function musics() {
       {
         id: 1,
         details: "detals of musice folan ",
-        name: "rahe meyKhane",
-        artist: "MohammadReza Shajaryan",
+        name: "Allergy",
+        artist: "FEDI",
         cover:
-          "https://music-fa.com/wp-content/uploads/2021/01/MohammadReza-Shajaryan-Remix-Rahe-Meykhane-Music-fa.com_.jpg",
+          "https://nex1music.ir/upload/2020-04-24/fedi-allergy-2020-04-24-16-50-53.jpg",
         ccolor: ["#844C6B", "37407E"],
         active: true,
         audio:
-          "https://dls.music-fa.com/tagdl/99/MohammadReza%20Shajaryan%20-%20Remix%20Rahe%20Meykhane%20(128).mp3",
+          "https://dl.nex1music.ir/1399/02/05/Fedi - Allergy.mp3",
       },
       {
         id: 2,
         details: "detals of musice folan ",
-        name: "gholame chashm",
-        artist: "MohammadReza Shajaryan",
-        cover: "http://ahangbaz.in/wp-content/uploads/cover/1236866390.jpg",
+        name: "Male Man Bash",
+        artist: "Pooyan JC & Shayan Eshraghi",
+        cover: "https://roadmusic.ir/wp-content/uploads/2022/08/پویان-جی-سی-و-شایان-اشراقی.jpg",
         ccolor: ["#844C6B", "37407E"],
         active: false,
         audio:
-          "https://dl.musiceman.net/Music/2021/03/01/Daniyal.Rasooly.-.Shajarian.Remix.mp3",
+          "https://dl.roadmusic.ir/Music/1401/05/Pooyan%20JC%20%26%20Shayan%20Eshraghi/Pooyan%20JC%2C%20Shayan%20Eshraghi%2C%20Kooriboom%20-%20Male%20Man%20Bash%20%28320%29.mp3",
       },
       {
         id: 3,
         details: "detals of musice folan ",
-        name: "Saghi bia",
-        artist: "MohammadReza Shajaryan",
+        name: "Khod Dargir",
+        artist: "Shayae FT Emtedad",
         cover:
-          "https://music-fa.com/wp-content/uploads/2020/04/MohammadReza-Shajaryan-Saghi-Bia-Music-fa.com_.jpg",
+          "https://rasaneh3.ir/wp-content/uploads/2022/06/Shayea-Khod-Dargir-1.jpg.webp",
         ccolor: ["#844C6B", "37407E"],
         active: false,
         audio:
-          "https://dls.music-fa.com/tagdl/99/MohammadReza%20Shajaryan%20-%20Saghi%20Bia%20(128).mp3",
+           "https://dl1.tarikhema.org/s/shayea-/Shayea--Khod-dargir-320.mp3",
       },
       {
         id: 4,
         details: "detals of musice folan ",
-        name: "koli",
-        artist: "Homayoun Shajarian",
-        cover: "http://ahangbaz.in/wp-content/uploads/cover/38357467.jpg",
+        name: "Beraghs Ba Man",
+        artist:  "Nassim Ft The Don Ft AFX",
+        cover: "https://xx.listen2music.ir/archive/N/Nassim/1398/Nassim%20-%20Beraghs%20Ba%20Man.jpg",
         ccolor: ["#844C6B", "37407E"],
         active: false,
         audio:
-          "https://dl.nicmusic.net/nicmusic/004/067/Homayon%20Shajarian%20-%20Koli.mp3",
+          "https://xx.listen2music.ir/archive/N/Nassim/1398/Nassim%20-%20Beraghs%20Ba%20Man.mp3",
       },
       {
         id: 5,
         details: "detals of musice folan ",
-        name: "khod khah",
-        artist: "Mohsen Yegane",
+        name: "Another Love",
+        artist: "Tom Odell",
         cover:
-          "http://sakhamusic.ir/wp-content/uploads/2020/03/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D8%AD%D8%B3%D9%86-%DB%8C%DA%AF%D8%A7%D9%86%D9%87-%D8%AE%D9%88%D8%AF%D8%AE%D9%88%D8%A7%D9%87.jpg",
+          "https://behmelody.in/wp-content/uploads/2020/05/Another-Love.jpg",
         ccolor: ["#844C6B", "37407E"],
         active: false,
         audio:
-          "http://dl.sakhamusic.ir/99/far/02/Mohsen%20Yeganeh%20-%20KhodKhah%20(128).mp3",
+          " https://dl.behmelody.in/1399/Ordibehesht/Tom%20Odell%20-%20Another%20Love%20(2).mp3",
       },
       {
         id: 6,
         details: "detals of musice folan ",
-        name: "bist hezar arezo",
-        artist: "Mohsen Chavooshi",
+        name: " Changes",
+        artist: "XXXTentacion",
         cover:
-          "https://music-fa.com/wp-content/uploads/2018/11/M-chavoshi05i742980752498752409572452.jpg",
+          "http://www.teh-dl.ir/wp-content/uploads/2019/03/XXXTENTACION-Changes.jpg",
         ccolor: ["#844C6B", "37407E"],
         active: false,
         audio:
-          "https://dls.music-fa.com/tagdl/downloads/Mohsen%20Chavoshi%20-%2020%20Hezar%20Arezoo%20(320).mp3",
+          "https://englishtipsforyou.com/wp-content/uploads/2019/04/changes-XXXTENTACION.mp3",
       },
-      {
-        id: 7,
-        details: "detals of musice folan ",
-        name: "ahd kardam",
-        artist: "Evan Band",
-        cover:
-          "http://sakhamusic.ir/wp-content/uploads/2018/07/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%A7%DB%8C%D9%88%D8%A7%D9%86-%D8%A8%D8%A7%D9%86%D8%AF-%D8%B9%D9%87%D8%AF-%DA%A9%D8%B1%D8%AF%D9%85.jpg",
-        ccolor: ["#844C6B", "37407E"],
-        active: false,
-        audio:
-          "http://dl.sakhamusic.ir/97/tir/02/Evan%20Band%20-%20Ahd%20Kardam%20(128).mp3",
-      },
+      
     ];
 }
